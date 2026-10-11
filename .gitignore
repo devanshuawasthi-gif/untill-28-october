@@ -4,6 +4,7 @@ __pycache__/
 *.py[cod]
 .env
 private_books/*.pdf
+!private_books/until_28_october.pdf
 data/*.csv
 !data/.gitkeep
 .DS_Store
