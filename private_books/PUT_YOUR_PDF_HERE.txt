@@ -1,2 +1,0 @@
-Place your real PDF in this folder and name it exactly: until_28_october.pdf
-The PDF is intentionally not included in the starter project.
