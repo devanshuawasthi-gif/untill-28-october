@@ -1,0 +1,9 @@
+venv/
+.venv/
+__pycache__/
+*.py[cod]
+.env
+private_books/*.pdf
+data/*.csv
+!data/.gitkeep
+.DS_Store
